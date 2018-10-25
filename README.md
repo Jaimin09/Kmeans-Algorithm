@@ -2,4 +2,4 @@
 Kmeans algorithm to group different english words with similar meaning.
 Uses Glove Embeddings
 
-Glove embedding file is not uploaded here
+Glove embedding file is not uploaded here.
